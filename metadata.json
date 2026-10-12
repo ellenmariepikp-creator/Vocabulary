@@ -1,0 +1,6 @@
+{
+  "name": "VocabQuest - Primary Vocabulary Adventure",
+  "description": "Interactive gamified vocabulary learning app for primary school students with challenges, mini-games, pet companions, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
